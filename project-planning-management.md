@@ -20,7 +20,7 @@ Develop a chatbot that answers questions using the current case context and refu
 Integrate the components through a backend API and a single-page GUI.
 Evaluate the complete pipeline and document the methodology, results, limitations, and safety considerations.
 
-In scope
+3. In scope
 Frontal chest X-ray images from the selected CheXpert dataset or an agreed fixed subset.
 Image preprocessing and data integrity checks.
 Five-label classification using DenseNet121.
@@ -63,7 +63,7 @@ Chatbot development, integration support, and training-log analysis
 Each member is responsible for delivering agreed outputs to the relevant teammates by the handoff deadlines. Team members should work on separate Git branches, with Omar coordinating merges and Hazem serving as the backup reviewer.
 
 
-Week
+5. Week
 Main focus
 Expected deliverables
 
@@ -94,7 +94,7 @@ Final paper, demo, documented limitations, and final checks
 The team will use weekly milestones and intermediate handoffs to identify dependencies and address delays early.
 
 
-Project Success Criteria
+6. Project Success Criteria
 
 The project will use the following targets from the team plan:
 
@@ -107,7 +107,7 @@ Documentation: Complete the project paper, final presentation, and supporting ev
 These are project targets, not achieved results. Actual performance will be reported only after evaluation.
 
 
-Risk Management
+7. Risk Management
 
 Risk
 Mitigation strategy
@@ -139,7 +139,7 @@ Maintain a shared repository, use agreed interfaces, and perform end-to-end test
 Core data-integrity checks, report generation, safety rules, model evaluation, chatbot evaluation, and the main paper sections will not be removed to compensate for delays.
 
 
-Communication and Project Monitoring
+8. Communication and Project Monitoring
 
 The team will use a shared Git repository, agreed file contracts, and explicit handoff deadlines to coordinate development.
 
